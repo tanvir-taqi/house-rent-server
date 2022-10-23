@@ -1,0 +1,322 @@
+[
+    {
+      "_id": "63558a956722ea2b5f6cc84a",
+      "index": 0,
+      "picture": "https://i.ibb.co/bbY4FJ7/dhaka.jpg",
+      "district": "Dhaka",
+      "latitude": 23.810332,
+      "longitude": 90.41251809999994,
+      "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63558a957908d5b5f7bf8a68",
+      "index": 1,
+      "picture": "https://i.ibb.co/wByDYTR/Rajshahi-city.jpg",
+      "district": "Rajshahi",
+      "latitude": 24.3635886,
+      "longitude": 88.6241351,
+        "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63558a95f3c9f865364cf999",
+      "index": 2,
+      "picture": "https://i.ibb.co/4S6GtWR/chittagong.jpg",
+      "district": "Chittagong",
+      "latitude": 22.356851,
+      "longitude": 91.783182,
+         "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63558a95e806f5e2ad461753",
+      "index": 3,
+      "picture": "https://i.ibb.co/QbNX3kq/jaflong.jpg",
+      "district": "Sylhet",
+      "latitude": 24.904539,
+      "longitude": 91.86110110000004,
+         "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63558a9567282d6ff3944585",
+      "index": 4,
+      "picture": "https://i.ibb.co/zfGf5g8/khulna.jpg",
+      "district": "Khulna",
+      "latitude": 22.845641,
+      "longitude": 89.54032789999997,
+         "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63558a95380d2ece4a2ea798",
+      "index": 5,
+      "picture": "https://i.ibb.co/yprBsKQ/barishal.jpg",
+      "district": "Barishal",
+      "latitude": 22.701002,
+      "longitude": 90.353451,
+         "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63558a956c7e926bc9f8ec93",
+      "index": 6,
+      "picture": "https://i.ibb.co/NTtVwhx/rangpur.jpg",
+      "district": "Rangpur",
+      "latitude": 25.7438916,
+      "longitude": 89.27522699999997,
+         "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "63558a9550dbc49b8b4ec5a9",
+      "index": 7,
+      "picture": "https://i.ibb.co/0CxV7yZ/mymensing.jpg",
+      "district": "Mymensing",
+      "latitude": -59.510975,
+      "longitude": 13.789539,
+         "houses": [
+        {
+          "id": 0,
+          "name": "Janice Daugherty",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/wSCTVwH/room-5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Pacheco Rivera",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/xMvb1SK/room-4.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Alexander",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/sjqnC4q/room-3.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rowland Reese",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/KVW8Cm2/room-2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bernadette Lott",
+          "about": "1 bed , 1 bath ",
+          "picture": "https://i.ibb.co/Gn0vG1k/room-1.jpg"
+        }
+      ]
+    }
+  ]
